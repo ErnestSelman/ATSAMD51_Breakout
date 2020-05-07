@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2020-05-07T16:47:46Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Nova Analytical <nova.analytical.software@gmail.com>*%
+%TJ.B_ID,SAMD51_Proto*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,30.365434*%
+%TJ.B_Size_Y,61.181125*%
+M02*
